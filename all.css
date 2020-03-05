@@ -1,6 +1,20 @@
-   td.catCaption {
+   .catCaption {
     border: solid fuchsia;
 }
-    tr {
-        margin:0px;
+    * {
+    font-family: 'Comic Sans';
+    }
+
+    {
+        background-color:
+    blanchedalmond;
+    }
+
+    #catTable {
+        border: solid
+        rebeccapurple 10px;
+        }
+
+    img.cat {
+    height: 200px
     }
